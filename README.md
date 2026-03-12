@@ -1,7 +1,7 @@
 # Proj-de-Banco-de-Dados
 Trabalho de AV1 
 
-SLIDE https://www.canva.com/design/DAHDsVoCfT0/nqJKSAv-IF7HUiF41sfJmA/edit?utm_content=DAHDsVoCfT0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+SLIDE DA APRESENTAÇÃO: https://www.canva.com/design/DAHDsVoCfT0/nqJKSAv-IF7HUiF41sfJmA/edit?utm_content=DAHDsVoCfT0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Índice Hash Estático – Simulação de Banco de Dados
 
