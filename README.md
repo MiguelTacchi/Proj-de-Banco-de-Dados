@@ -1,6 +1,8 @@
 # Proj-de-Banco-de-Dados
 Trabalho de AV1 
+
 SLIDE https://www.canva.com/design/DAHDsVoCfT0/nqJKSAv-IF7HUiF41sfJmA/edit?utm_content=DAHDsVoCfT0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Índice Hash Estático – Simulação de Banco de Dados
 
 Este projeto implementa uma **simulação de um índice hash estático**, utilizado em sistemas de banco de dados para acelerar a busca por registros. A aplicação foi desenvolvida em **Python** e possui **interface gráfica (Tkinter)** para visualizar as estruturas de dados e o funcionamento do índice.
